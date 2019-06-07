@@ -49,7 +49,7 @@ function fish_prompt
   if [ (_is_git_dirty) ]
     echo -s $red (__fish_git_prompt) $blue '* '
   else
-    echo -s $green (__fish_git_prompt)
+    echo -s $green (__fish_git_prompt) ' '
   end
 
 end
