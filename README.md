@@ -1,8 +1,10 @@
-# mtish
+# mish
 
 A minimalistic theme in fish
 
 ### Feature
+
+![alt text](./mish.png)
 
 #### Left Prompt
 - Branch name, `*` is branch is dirty
